@@ -35,6 +35,8 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[SeaArt](https://www.seaart.ai/)** - AI platform for high-resolution and artistic image creation.
 - **[Kling AI](https://klingai.com/)** - AI-driven tool for generating creative and customizable visuals.
 - **[Imagine.Art](https://www.imagine.art/)** - AI platform for fast and realistic image creation.
+- **[Kittl](https://www.kittl.com/features/ai)** - Create professional quality work with all the essential design and collaboration tools you need in an intuitive layout.
+- **[Vondy](https://www.vondy.com/)** - Vondy AI is a creative platform with 40,000+ AI tools for generating graphics, designs, and content. It simplifies workflows for both professionals and beginners.
 
 ### 3-Video Production & Editing
 
@@ -48,6 +50,10 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Freepik](https://www.freepik.com/)** - Design platform offering ready-made graphics, images, and templates.
 - **[Steve.AI](https://www.steve.ai/)** - AI-powered platform for creating animated videos.
 - **[DeepAI](https://deepai.org/)** - AI tool for text-to-video transformation.
+- **[Teachable Machine](https://teachablemachine.withgoogle.com/)** - Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
+- **[Replicate](https://replicate.com/)** - Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
+- **[Wondershare Virbo](https://virbo.wondershare.com/)** - AI Montage Maker. Producing high-impact marketing videos and promotional content is a breeze with Virbo's AI montage maker.
+- **[Pictory](https://pictory.ai/)** - Create engaging videos in minutes using the power of AI.
 
 ### 4-Audio & Music Generation
 
@@ -66,6 +72,9 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Boomy](https://boomy.com/)** - AI-powered tool that enables users to create music with a few clicks.
 - **[Sider AI](https://sider.ai/)** - AI platform for speech and audio analysis.
 - **[Magenta](https://magenta.tensorflow.org/)** - Open-source AI tool by Google for music and art generation.
+- **[Vocol AI](https://www.vocol.ai/)** - Vocol, driven by Artificial Intelligence, empowers individuals and enterprises to collaborate efficiently by turning voice into text with high accuracy and sharing the actionable insights.
+- **[Aiva](https://www.aiva.ai/)** - AIVA AI is an AI-powered music composer that creates original soundtracks for films, games, and commercials. It helps artists and creators generate unique compositions effortlessly.
+- **[Soundful](https://soundful.com/)** - Soundful is an AI-powered music platform that generates royalty-free tracks for content creators, brands, and businesses. It enables users to customize and create unique music effortlessly.
 
 ### 5-Coding & Development
 
@@ -83,6 +92,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[AskCodi](https://www.askcodi.com/)** - AI tool providing coding suggestions and completions.  
 - **[AI2sql](https://www.ai2sql.io/)** - AI-powered natural language to SQL converter.  
 - **[Cody by Sourcegraph](https://sourcegraph.com/cody)** - AI code assistant offering automatic code reviews and intelligent suggestions.
+- **[CodeWP](https://codewp.ai/)** - Quicker and more accurate WordPress coding with CodeWP's conversational AI, for devs and non-techies alike.
 
 ### 6-Text Analysis, Text Generation, Summarization  
 
@@ -105,7 +115,11 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[MedeAnalytics](https://medeanalytics.com/)** - AI-powered financial analytics platform for healthcare decision support.  
 - **[C3.ai](https://c3.ai/)** - AI-based big data analytics solution for optimizing financial operations.  
 - **[Evisort](https://www.evisort.com/)** - AI-powered contract management and document analysis tool.  
-- **[Kira Systems](https://kirasystems.com/)** - AI-driven contract review and document management tool for legal and financial sectors.  
+- **[Kira Systems](https://kirasystems.com/)** - AI-driven contract review and document management tool for legal and financial sectors.
+- **[Spellar](https://spellar.ai/** - Bot-free, native macOS & iOS meeting assistant, supporting 100+ languages with seamless export of your notes to Notion, Google Docs, Jira & Confluence
+- **[Sibyl AI](https://sibyls.ai/)** - Sibyl AI uses advanced AI for data analysis, predictions, and decision support.
+- **[Notion AI](https://www.notion.com/product/ai)** - Notion AI enhances productivity by generating, summarizing, and refining content within Notion, leveraging AI for smarter workflows.
+- **[Taskade](https://www.taskade.com/)** - Taskade AI boosts productivity with AI-powered task management, brainstorming, and content generation, streamlining workflows efficiently.
 
 ### 8-Cybersecurity  
 
