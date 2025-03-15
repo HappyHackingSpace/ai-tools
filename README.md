@@ -116,7 +116,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[C3.ai](https://c3.ai/)** - AI-based big data analytics solution for optimizing financial operations.  
 - **[Evisort](https://www.evisort.com/)** - AI-powered contract management and document analysis tool.  
 - **[Kira Systems](https://kirasystems.com/)** - AI-driven contract review and document management tool for legal and financial sectors.
-- **[Spellar](https://spellar.ai/** - Bot-free, native macOS & iOS meeting assistant, supporting 100+ languages with seamless export of your notes to Notion, Google Docs, Jira & Confluence
+- **[Spellar](https://spellar.ai/)** - Bot-free, native macOS & iOS meeting assistant, supporting 100+ languages with seamless export of your notes to Notion, Google Docs, Jira & Confluence
 - **[Sibyl AI](https://sibyls.ai/)** - Sibyl AI uses advanced AI for data analysis, predictions, and decision support.
 - **[Notion AI](https://www.notion.com/product/ai)** - Notion AI enhances productivity by generating, summarizing, and refining content within Notion, leveraging AI for smarter workflows.
 - **[Taskade](https://www.taskade.com/)** - Taskade AI boosts productivity with AI-powered task management, brainstorming, and content generation, streamlining workflows efficiently.
