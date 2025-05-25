@@ -23,12 +23,13 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[DeepAI](https://deepai.org/chat)** - AI chatbot utilizing multiple language models for diverse conversational experiences.
 - **[Hugging Face](https://huggingface.co/chat/)** - Open-source AI chatbot leveraging state-of-the-art language models.
 - **[You.com](https://you.com/)** - AI-enhanced search engine chatbot delivering real-time web-based results.
-- **[Mistral AI](https://mistral.ai/)** – Open-source, fast, and lightweight LLM-based chatbot.
-- **[Pi AI](https://pi.ai/onboarding)** – Personal conversational assistant for emotional support and advice.
+- **[Pi](https://pi.ai/)** - Conversational AI assistant focused on providing empathetic and personalized interactions.
+- **[Llama 3](https://llama.meta.com/)** - Meta's open-source large language model for building various AI applications.
+- **[Mistral](https://mistral.ai/)** - AI chatbot offering high-quality responses with an emphasis on efficiency and accuracy.
 
 ### 2-Image Generation & Editing
 
-- **[DALL·E](https://openai.com/dall-e)** - OpenAI’s AI-powered image generation tool from text descriptions.
+- **[DALL·E](https://openai.com/dall-e)** - OpenAI's AI-powered image generation tool from text descriptions.
 - **[Midjourney](https://www.midjourney.com)** - AI-driven platform for generating high-quality and artistic images.
 - **[Stable Diffusion](https://stablediffusionweb.com)** - Open-source AI model for customizable and detailed image generation.
 - **[Runway ML](https://runwayml.com)** - AI-powered creative suite for image and video editing.
@@ -39,8 +40,11 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Imagine.Art](https://www.imagine.art/)** - AI platform for fast and realistic image creation.
 - **[Kittl](https://www.kittl.com/features/ai)** - Create professional quality work with all the essential design and collaboration tools you need in an intuitive layout.
 - **[Vondy](https://www.vondy.com/)** - Vondy AI is a creative platform with 40,000+ AI tools for generating graphics, designs, and content. It simplifies workflows for both professionals and beginners.
-- **[Playground AI](https://playground.com/)** – Free and user-friendly platform for generating images with AI.
-- **[Canva AI](https://www.canva.com/ai-image-generator/)** – Canva’s AI-powered tool for creating images from text prompts.
+- **[Canva](https://www.canva.com/ai-image-generator/)** - AI image generator integrated within Canva's design platform, allowing for seamless creation and editing.
+- **[Craiyon](https://www.craiyon.com/)** - Formerly DALL-E mini, a free AI image generator that creates images from text descriptions.
+- **[Artbreeder](https://www.artbreeder.com/)** - AI tool that allows users to blend and evolve images through genetic algorithms.
+- **[Fotor](https://www.fotor.com/features/ai-image-generator/)** - Online photo editor with AI image generation capabilities for creating unique visuals.
+- **[Playground AI](https://playground.com/) – Free and user-friendly platform for generating images with AI.
 
 ### 3-Video Production & Editing
 
@@ -58,8 +62,11 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Replicate](https://replicate.com/)** - Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
 - **[Wondershare Virbo](https://virbo.wondershare.com/)** - AI Montage Maker. Producing high-impact marketing videos and promotional content is a breeze with Virbo's AI montage maker.
 - **[Pictory](https://pictory.ai/)** - Create engaging videos in minutes using the power of AI.
-- **[Descript](https://www.descript.com/)** – AI-powered platform for video and audio editing.
-- **[Kaiber AI](https://www.kaiber.ai/superstudio)** – AI tool for turning text into videos and animations.
+- **[Descript](https://www.descript.com/)** - All-in-one video editing software that transcribes audio and allows editing video by editing text.
+- **[Runway Gen-2](https://research.runwayml.com/gen2)** - Advanced AI model from Runway that generates videos from text, images, or other videos.
+- **[Kapwing](https://www.kapwing.com/)** - Online video editor with AI-powered features for content creators.
+- **[Lumen5](https://lumen5.com/)** - AI video creation platform that transforms articles and blog posts into video content.
+- **[Kaiber AI](https://www.kaiber.ai/superstudio) – AI tool for turning text into videos and animations.
 
 ### 4-Audio & Music Generation
 
@@ -81,8 +88,11 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Vocol AI](https://www.vocol.ai/)** - Vocol, driven by Artificial Intelligence, empowers individuals and enterprises to collaborate efficiently by turning voice into text with high accuracy and sharing the actionable insights.
 - **[Aiva](https://www.aiva.ai/)** - AIVA AI is an AI-powered music composer that creates original soundtracks for films, games, and commercials. It helps artists and creators generate unique compositions effortlessly.
 - **[Soundful](https://soundful.com/)** - Soundful is an AI-powered music platform that generates royalty-free tracks for content creators, brands, and businesses. It enables users to customize and create unique music effortlessly.
-- **[Audo AI](https://audo.ai/)** – AI for noise removal and audio enhancement.
-- **[LALAL.AI](https://audo.ai/)** – AI-powered tool for music and vocal stem separation.
+- **[Mubert](https://mubert.com/)** - AI-powered music streaming service that generates unique royalty-free tracks for various moods and activities.
+- **[Speechify](https://speechify.com/)** - Text-to-speech application that converts any written text into natural-sounding audio.
+- **[Riffusion](https://www.riffusion.com/)** - AI music generation tool that creates music from text prompts using spectrogram diffusion.
+- **[Audo AI](https://audo.ai/) – AI for noise removal and audio enhancement.
+- **[LALAL.AI](https://audo.ai/) – AI-powered tool for music and vocal stem separation.
 
 ### 5-Coding & Development
 
@@ -101,6 +111,10 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[AI2sql](https://www.ai2sql.io/)** - AI-powered natural language to SQL converter.  
 - **[Cody by Sourcegraph](https://sourcegraph.com/cody)** - AI code assistant offering automatic code reviews and intelligent suggestions.
 - **[CodeWP](https://codewp.ai/)** - Quicker and more accurate WordPress coding with CodeWP's conversational AI, for devs and non-techies alike.
+- **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** - AI coding companion that generates code recommendations based on comments and existing code.
+- **[CodeLlama](https://github.com/facebookresearch/codellama)** - Meta's coding-specialized language model for code completion and generation.
+- **[WPCode](https://wpcode.com/)** - WordPress-specific code snippets plugin with AI assistance for WordPress developers.
+- **[Mintlify](https://mintlify.com/)** - AI-powered documentation generator that automatically creates documentation from code.
 
 ### 6-Text Analysis, Text Generation, Summarization  
 
@@ -109,7 +123,12 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Humata](https://www.humata.ai/)** - AI-powered document analysis tool that provides summaries and instant answers to document-related queries.  
 - **[NotebookLM](https://notebooklm.google/)** - Google Gemini-powered tool for analyzing text files, summarizing complex documents, and facilitating brainstorming.  
 - **[Genei](https://www.genei.io/)** - AI research tool that automatically summarizes documents, extracts key information, and enables multi-document analysis.  
-- **[Sudo Write](https://sudowrite.com/)** - AI-assisted writing tool that enhances storytelling, improves content, and provides grammar and sentence suggestions.  
+- **[Sudo Write](https://sudowrite.com/)** - AI-assisted writing tool that enhances storytelling, improves content, and provides grammar and sentence suggestions.
+- **[Grammarly](https://www.grammarly.com/)** - AI-powered writing assistant that checks grammar, style, tone, and offers suggestions for improvement.
+- **[QuillBot](https://quillbot.com/)** - AI paraphrasing tool that helps rewrite and enhance text while maintaining meaning.
+- **[Jasper](https://www.jasper.ai/)** - AI content platform for creating marketing copy, blog posts, and other professional content.
+- **[Rytr](https://rytr.me/)** - AI writing assistant that helps create high-quality content for various purposes.
+- **[Copy.ai](https://www.copy.ai/)** - AI copywriting tool that generates marketing copy, emails, and social media content.
 
 ### 7-Finance and Business World  
 
@@ -118,7 +137,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[DataRobot](https://www.datarobot.com/)** - Automated machine learning platform that accelerates data science workflows.  
 - **[Zest AI](https://www.zest.ai/)** - AI-based credit assessment system for evaluating financial risks.  
 - **[Upstox](https://upstox.com/)** - AI-powered trading platform for stock and financial market strategies.  
-- **[Einstein Analytics](https://www.salesforce.com/eu/artificial-intelligence/)** - Salesforce’s AI-powered analytics and reporting tool.  
+- **[Einstein Analytics](https://www.salesforce.com/eu/artificial-intelligence/)** - Salesforce's AI-powered analytics and reporting tool.  
 - **[AlphaSense](https://www.alpha-sense.com/)** - AI-driven financial research tool that scans reports and market data.  
 - **[MedeAnalytics](https://medeanalytics.com/)** - AI-powered financial analytics platform for healthcare decision support.  
 - **[C3.ai](https://c3.ai/)** - AI-based big data analytics solution for optimizing financial operations.  
@@ -134,4 +153,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Darktrace](https://www.darktrace.com/)** - AI-powered cybersecurity platform that analyzes network traffic to detect anomalies and prevent cyber threats.  
 - **[Vectra AI](https://www.vectra.ai/)** - Real-time network and user behavior monitoring tool that detects hidden threats and insider attacks.  
 - **[SentinelOne](https://www.sentinelone.com/)** - AI-driven endpoint security solution that detects and responds to malware and fileless attacks using behavior analysis.  
-- **[Symantec Endpoint Protection](https://www.broadcom.com/products/cybersecurity/endpoint)** - AI and machine learning-powered endpoint security solution.  
+- **[Symantec Endpoint Protection](https://www.broadcom.com/products/cybersecurity/endpoint)** - AI and machine learning-powered endpoint security solution.
+- **[CrowdStrike](https://www.crowdstrike.com/)** - Cloud-native endpoint protection platform using AI to detect and prevent security breaches.
+- **[Cybereason](https://www.cybereason.com/)** - AI-powered endpoint detection and response platform that provides visibility into security threats.
+- **[Deep Instinct](https://www.deepinstinct.com/)** - Deep learning cybersecurity platform that prevents unknown and zero-day threats in real-time.
