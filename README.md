@@ -23,6 +23,8 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[DeepAI](https://deepai.org/chat)** - AI chatbot utilizing multiple language models for diverse conversational experiences.
 - **[Hugging Face](https://huggingface.co/chat/)** - Open-source AI chatbot leveraging state-of-the-art language models.
 - **[You.com](https://you.com/)** - AI-enhanced search engine chatbot delivering real-time web-based results.
+- **[Mistral AI](https://mistral.ai/)** – Open-source, fast, and lightweight LLM-based chatbot.
+- **[Pi AI](https://pi.ai/onboarding)** – Personal conversational assistant for emotional support and advice.
 
 ### 2-Image Generation & Editing
 
@@ -37,6 +39,8 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Imagine.Art](https://www.imagine.art/)** - AI platform for fast and realistic image creation.
 - **[Kittl](https://www.kittl.com/features/ai)** - Create professional quality work with all the essential design and collaboration tools you need in an intuitive layout.
 - **[Vondy](https://www.vondy.com/)** - Vondy AI is a creative platform with 40,000+ AI tools for generating graphics, designs, and content. It simplifies workflows for both professionals and beginners.
+- **[Playground AI](https://playground.com/) – Free and user-friendly platform for generating images with AI.
+- **[Canva AI](https://www.canva.com/ai-image-generator/) – Canva’s AI-powered tool for creating images from text prompts.
 
 ### 3-Video Production & Editing
 
@@ -54,6 +58,8 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Replicate](https://replicate.com/)** - Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
 - **[Wondershare Virbo](https://virbo.wondershare.com/)** - AI Montage Maker. Producing high-impact marketing videos and promotional content is a breeze with Virbo's AI montage maker.
 - **[Pictory](https://pictory.ai/)** - Create engaging videos in minutes using the power of AI.
+- **[Descript](https://www.descript.com/) – AI-powered platform for video and audio editing.
+- **[Kaiber AI](https://www.kaiber.ai/superstudio) – AI tool for turning text into videos and animations.
 
 ### 4-Audio & Music Generation
 
@@ -75,6 +81,8 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Vocol AI](https://www.vocol.ai/)** - Vocol, driven by Artificial Intelligence, empowers individuals and enterprises to collaborate efficiently by turning voice into text with high accuracy and sharing the actionable insights.
 - **[Aiva](https://www.aiva.ai/)** - AIVA AI is an AI-powered music composer that creates original soundtracks for films, games, and commercials. It helps artists and creators generate unique compositions effortlessly.
 - **[Soundful](https://soundful.com/)** - Soundful is an AI-powered music platform that generates royalty-free tracks for content creators, brands, and businesses. It enables users to customize and create unique music effortlessly.
+- **[Audo AI](https://audo.ai/) – AI for noise removal and audio enhancement.
+- **[LALAL.AI](https://audo.ai/) – AI-powered tool for music and vocal stem separation.
 
 ### 5-Coding & Development
 
