@@ -45,6 +45,9 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Artbreeder](https://www.artbreeder.com/)** - AI tool that allows users to blend and evolve images through genetic algorithms.
 - **[Fotor](https://www.fotor.com/features/ai-image-generator/)** - Online photo editor with AI image generation capabilities for creating unique visuals.
 - **[Playground AI](https://playground.com/)** – Free and user-friendly platform for generating images with AI.
+- **[Luma AI](https://lumalabs.ai/)** – AI-powered platform for generating high-quality, cinematic images and videos from text or reference inputs.
+- **[Hailuo AI](https://hailuoai.video/)** – Advanced AI image generator known for ultra-realistic portraits, characters, and stylistic visual outputs.
+- **[Krea AI](https://www.krea.ai/)** – Real-time image generation and editing platform featuring strong fine-tuning, style control, and live rendering capabilities.
 
 ### 3-Video Production & Editing
 
@@ -115,6 +118,8 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[CodeLlama](https://github.com/facebookresearch/codellama)** - Meta's coding-specialized language model for code completion and generation.
 - **[WPCode](https://wpcode.com/)** - WordPress-specific code snippets plugin with AI assistance for WordPress developers.
 - **[Mintlify](https://mintlify.com/)** - AI-powered documentation generator that automatically creates documentation from code.
+- **[Continue.dev](https://www.continue.dev/)** - Open-source AI coding assistant for VS Code and JetBrains, enabling local or cloud model integration for code generation and refactoring.
+- **[Windsurf](https://windsurf.com/)** - AI-first IDE that provides intelligent coding suggestions, project-wide reasoning, and automated code improvements.
 
 ### 6-Text Analysis, Text Generation, Summarization  
 
