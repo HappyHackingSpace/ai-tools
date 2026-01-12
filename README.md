@@ -44,7 +44,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Craiyon](https://www.craiyon.com/)** - Formerly DALL-E mini, a free AI image generator that creates images from text descriptions.
 - **[Artbreeder](https://www.artbreeder.com/)** - AI tool that allows users to blend and evolve images through genetic algorithms.
 - **[Fotor](https://www.fotor.com/features/ai-image-generator/)** - Online photo editor with AI image generation capabilities for creating unique visuals.
-- **[Playground AI](https://playground.com/) – Free and user-friendly platform for generating images with AI.
+- **[Playground AI](https://playground.com/)** – Free and user-friendly platform for generating images with AI.
 
 ### 3-Video Production & Editing
 
@@ -66,7 +66,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Runway Gen-2](https://research.runwayml.com/gen2)** - Advanced AI model from Runway that generates videos from text, images, or other videos.
 - **[Kapwing](https://www.kapwing.com/)** - Online video editor with AI-powered features for content creators.
 - **[Lumen5](https://lumen5.com/)** - AI video creation platform that transforms articles and blog posts into video content.
-- **[Kaiber AI](https://www.kaiber.ai/superstudio) – AI tool for turning text into videos and animations.
+- **[Kaiber AI](https://www.kaiber.ai/superstudio)** – AI tool for turning text into videos and animations.
 
 ### 4-Audio & Music Generation
 
@@ -91,8 +91,8 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Mubert](https://mubert.com/)** - AI-powered music streaming service that generates unique royalty-free tracks for various moods and activities.
 - **[Speechify](https://speechify.com/)** - Text-to-speech application that converts any written text into natural-sounding audio.
 - **[Riffusion](https://www.riffusion.com/)** - AI music generation tool that creates music from text prompts using spectrogram diffusion.
-- **[Audo AI](https://audo.ai/) – AI for noise removal and audio enhancement.
-- **[LALAL.AI](https://audo.ai/) – AI-powered tool for music and vocal stem separation.
+- **[Audo AI](https://audo.ai/)** – AI for noise removal and audio enhancement.
+- **[LALAL.AI](https://www.lalal.ai/)** – A next-generation vocal remover and music source separation service for fast, easy and precise stem extraction. 
 
 ### 5-Coding & Development
 
