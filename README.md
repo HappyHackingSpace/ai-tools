@@ -71,6 +71,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Runway Gen-2](https://research.runwayml.com/gen2)** - Advanced AI model from Runway that generates videos from text, images, or other videos.
 - **[Kapwing](https://www.kapwing.com/)** - Online video editor with AI-powered features for content creators.
 - **[Lumen5](https://lumen5.com/)** - AI video creation platform that transforms articles and blog posts into video content.
+- **[videos.social](https://videos.social/?utm_source=happyhackingspace-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d)** - Turns blogs, PDFs, and prompts into editable faceless videos.
 - **[Kaiber AI](https://www.kaiber.ai/superstudio)** – AI tool for turning text into videos and animations.
 - **[fal.ai](https://fal.ai/)** - High-performance AI inference platform for image, video, and audio generation with ultra-low latency.
 
