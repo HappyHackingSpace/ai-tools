@@ -74,6 +74,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[videos.social](https://videos.social/?utm_source=happyhackingspace-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d)** - Turns blogs, PDFs, and prompts into editable faceless videos.
 - **[Kaiber AI](https://www.kaiber.ai/superstudio)** – AI tool for turning text into videos and animations.
 - **[fal.ai](https://fal.ai/)** - High-performance AI inference platform for image, video, and audio generation with ultra-low latency.
+- **[shortshort](https://www.shortshort.io)** - Turns one long video into vertical 9:16 shorts of 15-90 seconds, cut on complete sentences, with face-tracking reframing and word-by-word captions.
 
 ### 4-Audio & Music Generation
 
