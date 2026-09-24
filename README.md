@@ -28,6 +28,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Pi](https://pi.ai/)** - Conversational AI assistant focused on providing empathetic and personalized interactions.
 - **[Llama 3](https://llama.meta.com/)** - Meta's open-source large language model for building various AI applications.
 - **[Mistral](https://mistral.ai/)** - AI chatbot offering high-quality responses with an emphasis on efficiency and accuracy.
+- **[StudyArena](https://studyarena.com)** - Student chatbot for comparing three anonymous AI answers, voting, and revealing the models; free account required.
 
 ### 2-Image Generation & Editing
 
