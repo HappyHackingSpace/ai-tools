@@ -110,6 +110,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Replit Ghostwriter](https://replit.com/site/ghostwriter)** - AI-powered cloud-based development environment with coding assistance.  
 - **[Codex by OpenAI](https://openai.com/index/openai-codex/)** - AI tool for AI-assisted code writing and development.  
 - **[DeepCode](https://snyk.io/platform/deepcode-ai/)** - AI tool that detects potential errors and improves code quality.  
+- **[Agent QA](https://vostride.com/)** - The self-improving QA agent for natural-language web and mobile regression tests.
 - **[Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/)** - AI-powered code suggestion system.  
 - **[Codeium](https://www.codeium.com/)** - AI tool for smart and fast code completion.  
 - **[Cursor](https://www.cursor.so/)** - AI-powered code editor that provides instant code suggestions and structure analysis.  
