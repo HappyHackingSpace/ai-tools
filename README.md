@@ -127,6 +127,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Mintlify](https://mintlify.com/)** - AI-powered documentation generator that automatically creates documentation from code.
 - **[Continue.dev](https://www.continue.dev/)** - Open-source AI coding assistant for VS Code and JetBrains, enabling local or cloud model integration for code generation and refactoring.
 - **[Windsurf](https://windsurf.com/)** - AI-first IDE that provides intelligent coding suggestions, project-wide reasoning, and automated code improvements.
+- **[YYLO](https://github.com/yylo-dev/yylo)** - Open-source command-line orchestrator for coding agents, with repeatable workflows, receipt-backed repository changes, and typed task, validation, merge, and release-readiness boundaries.
 
 ### 6-Text Analysis, Text Generation, Summarization  
 
