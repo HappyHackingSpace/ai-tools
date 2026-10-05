@@ -171,6 +171,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[CrowdStrike](https://www.crowdstrike.com/)** - Cloud-native endpoint protection platform using AI to detect and prevent security breaches.
 - **[Cybereason](https://www.cybereason.com/)** - AI-powered endpoint detection and response platform that provides visibility into security threats.
 - **[Deep Instinct](https://www.deepinstinct.com/)** - Deep learning cybersecurity platform that prevents unknown and zero-day threats in real-time.
+- **[Darkmoon](https://github.com/ASCIT31/Dark-Moon)** - Open source (GPL-3.0) autonomous AI penetration testing platform: an LLM orchestrates specialist agents and offensive tools, can run on a local model, and proves each finding with a real exploit attempt.
 
 ### 9-Automation & Workflow Integration
 
