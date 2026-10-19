@@ -161,6 +161,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Sibyl AI](https://sibyls.ai/)** - Sibyl AI uses advanced AI for data analysis, predictions, and decision support.
 - **[Notion AI](https://www.notion.com/product/ai)** - Notion AI enhances productivity by generating, summarizing, and refining content within Notion, leveraging AI for smarter workflows.
 - **[Taskade](https://www.taskade.com/)** - Taskade AI boosts productivity with AI-powered task management, brainstorming, and content generation, streamlining workflows efficiently.
+- **[Pulse](https://pulsecorp.co)** - AI-moderated market research platform that runs customer interviews at scale.
 
 ### 8-Cybersecurity  
 
