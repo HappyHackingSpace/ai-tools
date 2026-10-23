@@ -143,6 +143,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Rytr](https://rytr.me/)** - AI writing assistant that helps create high-quality content for various purposes.
 - **[Copy.ai](https://www.copy.ai/)** - AI copywriting tool that generates marketing copy, emails, and social media content.
 - **[kdpbook.io](https://kdpbook.io/?utm_source=happyhackingspace-ai-tools&utm_medium=github)** - AI book studio for Amazon KDP that writes, illustrates and typesets a book described in a chat, then exports the print PDF, full-wrap cover, Kindle EPUB and listing.
+- **[CoverNice](https://covernice.com/)** - Browser-based cover studio for print books: it computes spine width from page count and paper stock, applies bleed and safe area, and exports a print-ready 300 dpi full-wrap PDF for KDP and IngramSpark plus a 1600x2560 eBook cover.  
 
 ### 7-Finance and Business World  
 
