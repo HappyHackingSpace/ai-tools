@@ -102,6 +102,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Riffusion](https://www.riffusion.com/)** - AI music generation tool that creates music from text prompts using spectrogram diffusion.
 - **[Audo AI](https://audo.ai/)** – AI for noise removal and audio enhancement.
 - **[LALAL.AI](https://www.lalal.ai/)** – A next-generation vocal remover and music source separation service for fast, easy and precise stem extraction. 
+- **[Tera Studio](https://terastudio.co/)** - AI singing app that learns your voice from about a minute of singing and sings any uploaded song back in your voice, in any language.
 
 ### 5-Coding & Development
 
