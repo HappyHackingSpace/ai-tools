@@ -189,3 +189,6 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Stitch](https://stitch.withgoogle.com/)** - AI-powered product prototyping tool by Google.
 - **[Hostinger Horizons](https://www.hostinger.com/tr/horizons)** - AI-powered website and application builder.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HappyHackingSpace/ai-tools&type=Date)](https://star-history.com/#HappyHackingSpace/ai-tools&Date)
