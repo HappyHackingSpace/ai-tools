@@ -62,6 +62,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Sora](https://sora.com/)** - OpenAI's AI model for text-to-video generation.
 - **[Invideo AI](https://invideo.io/)** - AI-driven automatic video creation and editing tool.
 - **[Freepik](https://www.freepik.com/)** - Design platform offering ready-made graphics, images, and templates.
+- **[Imagera](https://imagera.ai)** - Browser studio that runs many AI video and image models side by side, with consistent characters and products across clips.
 - **[Steve.AI](https://www.steve.ai/)** - AI-powered platform for creating animated videos.
 - **[DeepAI](https://deepai.org/)** - AI tool for text-to-video transformation.
 - **[Teachable Machine](https://teachablemachine.withgoogle.com/)** - Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
