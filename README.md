@@ -76,6 +76,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Kaiber AI](https://www.kaiber.ai/superstudio)** – AI tool for turning text into videos and animations.
 - **[fal.ai](https://fal.ai/)** - High-performance AI inference platform for image, video, and audio generation with ultra-low latency.
 - **[shortshort](https://www.shortshort.io)** - Turns one long video into vertical 9:16 shorts of 15-90 seconds, cut on complete sentences, with face-tracking reframing and word-by-word captions.
+- **[RefVid](https://refvid.com)** - Reference-to-video tool that keeps a product's label or a person's face the same across AI video clips, from 1-10 photos.
 
 ### 4-Audio & Music Generation
 
