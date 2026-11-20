@@ -77,6 +77,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[fal.ai](https://fal.ai/)** - High-performance AI inference platform for image, video, and audio generation with ultra-low latency.
 - **[shortshort](https://www.shortshort.io)** - Turns one long video into vertical 9:16 shorts of 15-90 seconds, cut on complete sentences, with face-tracking reframing and word-by-word captions.
 - **[RefVid](https://refvid.com)** - Reference-to-video tool that keeps a product's label or a person's face the same across AI video clips, from 1-10 photos.
+- **[BeatMV](https://beatmv.ai)** - AI music video generator that turns any song into a music video that moves with the beat.
 
 ### 4-Audio & Music Generation
 
@@ -103,6 +104,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Riffusion](https://www.riffusion.com/)** - AI music generation tool that creates music from text prompts using spectrogram diffusion.
 - **[Audo AI](https://audo.ai/)** – AI for noise removal and audio enhancement.
 - **[LALAL.AI](https://www.lalal.ai/)** – A next-generation vocal remover and music source separation service for fast, easy and precise stem extraction. 
+- **[BeatMusic](https://beatmusic.ai)** - AI music generator that turns a text idea or your lyrics into full songs with vocals.
 
 ### 5-Coding & Development
 
