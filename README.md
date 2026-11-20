@@ -144,6 +144,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Rytr](https://rytr.me/)** - AI writing assistant that helps create high-quality content for various purposes.
 - **[Copy.ai](https://www.copy.ai/)** - AI copywriting tool that generates marketing copy, emails, and social media content.
 - **[kdpbook.io](https://kdpbook.io/?utm_source=happyhackingspace-ai-tools&utm_medium=github)** - AI book studio for Amazon KDP that writes, illustrates and typesets a book described in a chat, then exports the print PDF, full-wrap cover, Kindle EPUB and listing.
+- **[GuruTrans](https://gurutrans.app/)** - AI translation tools for languages, old English styles, and Morse code, with 5 free translations a day for registered users.
 
 ### 7-Finance and Business World  
 
