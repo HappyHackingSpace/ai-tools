@@ -157,6 +157,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Upstox](https://upstox.com/)** - AI-powered trading platform for stock and financial market strategies.  
 - **[Einstein Analytics](https://www.salesforce.com/eu/artificial-intelligence/)** - Salesforce's AI-powered analytics and reporting tool.  
 - **[AlphaSense](https://www.alpha-sense.com/)** - AI-driven financial research tool that scans reports and market data.  
+- **[DDScore](https://www.ddscore.ai/)** - Cross-checks company documents and public sources for first-pass private-company due diligence.  
 - **[MedeAnalytics](https://medeanalytics.com/)** - AI-powered financial analytics platform for healthcare decision support.  
 - **[C3.ai](https://c3.ai/)** - AI-based big data analytics solution for optimizing financial operations.  
 - **[Evisort](https://www.evisort.com/)** - AI-powered contract management and document analysis tool.  
